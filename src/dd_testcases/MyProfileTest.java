@@ -14,11 +14,8 @@ import dd_core.Page;
 import dd_util.TestUtil;
 public class MyProfileTest extends Page {
 	@BeforeTest
-	public void isSkip(){	
-		if(!TestUtil.isExecutable("MyProfileTest")){		
-			throw new SkipException("Skipping the test as the Run mode is No");
-			
-		}		}	
+	public void isSkip() throws IOException{
+		TestUtil.CaptureScreenshot();	}
 	@Test
 	public void E() throws IOException {
 		driver.manage().timeouts().implicitlyWait(20L, TimeUnit.SECONDS);
@@ -29,8 +26,7 @@ public class MyProfileTest extends Page {
 	System.out.println("9.clicked on search button");
 	driver.manage().timeouts().implicitlyWait(20L, TimeUnit.SECONDS);
 	findElement("itemselect").click();
-	System.out.println("10. item Selected");	
-	findElement("addtocart").click();
+
 	
 	}
 	@Test
