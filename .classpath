@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/client-combined-3.5.3-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/client-combined-3.5.3-nodeps-sources.zip"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-core-1.2.5 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-core-1.2.5 (2).jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-java-1.2.5 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-java-1.2.5 (2).jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-java-1.2.5 (3).jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-junit-1.2.5 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-junit-1.2.5 (2).jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-testng-1.2.5 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/cucumber-testng-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/flash-selenium.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/guava-22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/guava-23.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/guava-23.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/logging-selenium-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/mysql-connector-java-5.0.7-bin(2).jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/selenium-html-runner-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/selenium-server-2.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/testng-6.14.2.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Programming/Java/xstream-1.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares and Setups/Compressed/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares and Setups/Compressed/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares and Setups/Compressed/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares and Setups/Compressed/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares and Setups/Compressed/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares and Setups/Compressed/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
